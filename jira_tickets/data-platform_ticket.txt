@@ -1,0 +1,19 @@
+
+JIRA TICKET
+========================
+
+Summary:
+AmazonRDS spend increased 50.0% in account data-platform
+
+Owner:
+owner2@example.com
+
+Cost Context:
+Previous Cost: $9000
+Current Cost: $13500
+
+Recommended Investigation:
+Review workload activity, deployments, configuration changes, or demand shifts.
+
+Requested Action:
+Provide root-cause explanation and remediation plan within SLA.

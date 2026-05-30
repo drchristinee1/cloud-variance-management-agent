@@ -1,0 +1,19 @@
+
+JIRA TICKET
+========================
+
+Summary:
+AWSLambda spend increased 180.0% in account ai-workloads
+
+Owner:
+owner3@example.com
+
+Cost Context:
+Previous Cost: $1500
+Current Cost: $4200
+
+Recommended Investigation:
+Review workload activity, deployments, configuration changes, or demand shifts.
+
+Requested Action:
+Provide root-cause explanation and remediation plan within SLA.

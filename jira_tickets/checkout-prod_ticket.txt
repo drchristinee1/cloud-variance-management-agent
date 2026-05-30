@@ -1,0 +1,19 @@
+
+JIRA TICKET
+========================
+
+Summary:
+AmazonEC2 spend increased 50.0% in account checkout-prod
+
+Owner:
+owner1@example.com
+
+Cost Context:
+Previous Cost: $12000
+Current Cost: $18000
+
+Recommended Investigation:
+Review workload activity, deployments, configuration changes, or demand shifts.
+
+Requested Action:
+Provide root-cause explanation and remediation plan within SLA.

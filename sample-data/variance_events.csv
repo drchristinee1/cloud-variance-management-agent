@@ -1,0 +1,4 @@
+account_id,account_name,service,previous_month_cost,current_month_cost,variance_percent,owner_email,cost_center
+123456789012,checkout-prod,AmazonEC2,12000,18000,50,owner1@example.com,CC1001
+234567890123,data-platform,AmazonRDS,9000,13500,50,owner2@example.com,CC2002
+345678901234,ai-workloads,AWSLambda,1500,4200,180,owner3@example.com,CC3003
