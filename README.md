@@ -6,7 +6,7 @@ Agentic FinOps governance workflow that turns cloud cost variance signals into o
 
 Traditional cloud optimization tools often stop at dashboards or recommendations.
 
-This project explores a workflow-native approach where cloud cost signals become accountable engineering action.
+This project demonstrates an agentic, workflow-native approach that transforms.
 
 ## Workflow
 
