@@ -2,6 +2,8 @@
 
 Agentic FinOps governance workflow that turns cloud cost variance signals into owner-assigned Jira actions, SLA tracking, escalation, and savings validation.
 
+![Cloud Variance Architecture](./images/Cloud%20Variance%20management%20architecture%20diagram.png)
+
 ## Problem
 
 Traditional cloud optimization tools often stop at dashboards or recommendations.
