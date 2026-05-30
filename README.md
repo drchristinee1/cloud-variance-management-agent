@@ -8,6 +8,8 @@ Traditional cloud optimization tools often stop at dashboards or recommendations
 
 This project demonstrates an agentic, workflow-native approach that transforms.
 
+Rather than stopping at visibility, the workflow connects detection, AI-assisted reasoning, ownership, and Jira-based execution to support accountable remediation and measurable outcomes.
+
 ## Workflow
 
 ```text
